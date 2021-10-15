@@ -1,0 +1,25 @@
+{
+  "name": "smartcontract",
+  "version": "1.0.0",
+  "description": "codigo fuente de cuytoken",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuytoken/smartcontract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuytoken/smartcontract/issues"
+  },
+  "homepage": "https://github.com/cuytoken/smartcontract#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "truffle-assertions": "^0.9.2"
+  }
+}
